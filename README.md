@@ -22,7 +22,7 @@ Completed Tasks
 We have completed the following Data Collection for San Jose, CA. [Watch Project](https://github.com/CivilServiceUSA/city-council-ca-san-jose/subscription) to be notified of updates.
 
 - [ ] City Council Data Created
-- [ ] City Photo Created
+- [X] City Photo Created
 - [ ] Councilor Headshots Created
 - [ ] Images Uploaded to CDN
 - [ ] GeoJSON File Created
